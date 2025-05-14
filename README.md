@@ -1,2 +1,2 @@
-# Top-Down-Game-Tower-W
-Making a top-down view game about climbing a tower
+# Tower Game
+Making a 2D top-down adventure game about climbing a tower
